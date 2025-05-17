@@ -1,0 +1,16 @@
+.nav-link-custom { 
+  color: #1E1E1E; 
+  padding: 8px;
+  border-radius: 8px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.nav-link-custom:hover {
+  background-color: #A2845E;
+  color: white;
+}
+
+.nav-link-custom.active {
+  background-color: #A2845E;
+  color: white;
+}
