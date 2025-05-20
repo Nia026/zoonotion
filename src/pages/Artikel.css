@@ -55,7 +55,7 @@
 }
 
 .article-image {
-  height: 185px;
+  height: 250px;
   /* Tinggi gambar sesuai desain */
   object-fit: cover;
   border-top-left-radius: 10px;

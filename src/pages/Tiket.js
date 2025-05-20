@@ -8,48 +8,48 @@ function Tiket(){
 
   useEffect(() => {
     const defaultZooList = [
-      {
-        id: 1,
-        name: 'Kebun Binatang Surabaya',
-        description: 'Kebun Binatang Surabaya (KBS) atau Surabaya Zoo adalah salah satu kebun binatang yang populer di Indonesia...',
-        websiteUrl: 'https://www.surabayazoo.web.id/',
-        ticketUrl: 'https://tiket.surabayazoo.web.id/',
-      },
-      {
-        id: 2,
-        name: 'Taman Safari Indonesia',
-        description: 'Taman Safari Indonesia adalah taman hiburan satwa yang terletak di Cisarua, Prigen, dan Bali...',
-        websiteUrl: 'https://tamansafari.com/',
-        ticketUrl: 'https://tamansafari.com/tiket/',
-      },
-      {
-        id: 3,
-        name: 'Bandung Zoo',
-        description: 'Kebun Binatang Bandung merupakan salah satu objek wisata alam flora dan fauna di Kota Bandung...',
-        websiteUrl: 'https://bandungzoo.id/',
-        ticketUrl: 'https://bandungzoo.id/beli-tiket/',
-      },
-      {
-        id: 4,
-        name: 'Gembira Loka Zoo',
-        description: 'Kebun Raya dan Kebun Binatang Gembira Loka (Gembira Loka Zoo) adalah kebun binatang yang berada di Kota Yogyakarta...',
-        websiteUrl: 'https://gembiralokazoo.com/',
-        ticketUrl: 'https://gembiralokazoo.com/tiket/',
-      },
-      {
-        id: 5,
-        name: 'Batu Secret Zoo',
-        description: 'Batu Secret Zoo merupakan tempat wisata dan kebun binatang modern yang terletak di Kota Batu, Jawa Timur...',
-        websiteUrl: 'https://jatimpark.com/batu-secret-zoo/',
-        ticketUrl: 'https://jatimpark.com/batu-secret-zoo/#tiket',
-      },
-      {
-        id: 6,
-        name: 'Ragunan Zoo',
-        description: 'Taman Margasatwa Ragunan atau juga disebut Kebun Binatang Ragunan adalah sebuah kebun binatang yang terletak di daerah Ragunan, Pasar Minggu, Jakarta Selatan...',
-        websiteUrl: 'https://ragunanzoo.jakarta.go.id/',
-        ticketUrl: 'https://ragunanzoo.jakarta.go.id/informasi-tiket/',
-      },
+      // {
+      //   id: 1,
+      //   name: 'Kebun Binatang Surabaya',
+      //   description: 'Kebun Binatang Surabaya (KBS) atau Surabaya Zoo adalah salah satu kebun binatang yang populer di Indonesia...',
+      //   websiteUrl: 'https://www.surabayazoo.web.id/',
+      //   ticketUrl: 'https://tiket.surabayazoo.web.id/',
+      // },
+      // {
+      //   id: 2,
+      //   name: 'Taman Safari Indonesia',
+      //   description: 'Taman Safari Indonesia adalah taman hiburan satwa yang terletak di Cisarua, Prigen, dan Bali...',
+      //   websiteUrl: 'https://tamansafari.com/',
+      //   ticketUrl: 'https://tamansafari.com/tiket/',
+      // },
+      // {
+      //   id: 3,
+      //   name: 'Bandung Zoo',
+      //   description: 'Kebun Binatang Bandung merupakan salah satu objek wisata alam flora dan fauna di Kota Bandung...',
+      //   websiteUrl: 'https://bandungzoo.id/',
+      //   ticketUrl: 'https://bandungzoo.id/beli-tiket/',
+      // },
+      // {
+      //   id: 4,
+      //   name: 'Gembira Loka Zoo',
+      //   description: 'Kebun Raya dan Kebun Binatang Gembira Loka (Gembira Loka Zoo) adalah kebun binatang yang berada di Kota Yogyakarta...',
+      //   websiteUrl: 'https://gembiralokazoo.com/',
+      //   ticketUrl: 'https://gembiralokazoo.com/tiket/',
+      // },
+      // {
+      //   id: 5,
+      //   name: 'Batu Secret Zoo',
+      //   description: 'Batu Secret Zoo merupakan tempat wisata dan kebun binatang modern yang terletak di Kota Batu, Jawa Timur...',
+      //   websiteUrl: 'https://jatimpark.com/batu-secret-zoo/',
+      //   ticketUrl: 'https://jatimpark.com/batu-secret-zoo/#tiket',
+      // },
+      // {
+      //   id: 6,
+      //   name: 'Ragunan Zoo',
+      //   description: 'Taman Margasatwa Ragunan atau juga disebut Kebun Binatang Ragunan adalah sebuah kebun binatang yang terletak di daerah Ragunan, Pasar Minggu, Jakarta Selatan...',
+      //   websiteUrl: 'https://ragunanzoo.jakarta.go.id/',
+      //   ticketUrl: 'https://ragunanzoo.jakarta.go.id/informasi-tiket/',
+      // },
     ];
     setZooList(defaultZooList);
   }, []);

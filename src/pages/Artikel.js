@@ -13,25 +13,25 @@ function Artikel(){
         id: 1,
         title: 'Musang Pandan: Ciri-ciri, Karakteristik dan Fakta Menariknya',
         description: 'Pernah dengar tentang musang pandan? Binatang yang satu ini mungkin masih jarang terdengar, namun ternyata hewan ini punya ciri-ciri dan karakteristik unik yang bikin kamu penasaran. Dengan tubuh yang ramping dan bulu yang khas, hewan yang satu ini memiliki banyak fakta menarik yang nggak kalah seru untuk dibahas. Kalau kamu ingin tahu lebih dalam tentang musang pandan, mulai dari penampilannya sampai kebiasaan hidupnya, yuk simak artikel ini!',
-        imageUrl: 'https://placehold.co/318x185', // Placeholder gambar
+        imageUrl: '/assets/gambarMusang.webp', // Placeholder gambar
       },
       {
         id: 2,
         title: 'Kucing Siam: Mengenal si Kucing Pintar yang Menggemaskan!',
         description: 'Kucing siam atau siamese merupakan salah satu ras kucing hias yang umum dipelihara di seluruh dunia. Kucing yang memiliki perawakan layaknya kucing domestik ini dinamakan siam karena berasal dari Negara Siam yang sekarang lebih dikenal dengan nama Thailand.',
-        imageUrl: 'https://placehold.co/318x185', // Placeholder gambar
+        imageUrl: '/assets/gambarKucing.webp', // Placeholder gambar
       },
       {
         id: 3,
         title: 'Kenali 100 Nama Hewan di Indonesia yang Menakjubkan!',
         description: 'Tahukah kamu? Indonesia dikenal sebagai salah satu negara yang kaya akan sumber daya hayati terbesar di dunia. Mulai dari mamalia megah seperti harimau Sumatra sampai serangga kumbang tanduk, masing-masing daerah di negara ini punya kekayaan fauna yang luar biasa.',
-        imageUrl: 'https://placehold.co/318x185', // Placeholder gambar
+        imageUrl: '/assets/gambarSinga.png', // Placeholder gambar
       },
       {
         id: 4,
         title: 'Inilah 8 Spesies Ular Terbesar di Dunia, Salah Satunya Ada Black Mamba',
         description: 'Tak jarang berita tentang penemuan ular besar di sekitar kawasan rumah warga beredar, penemuan ular besar ini tentunya menghebohkan karena masyarakat khawatir bahwa ular tersebut dapat membahayakan manusia maupun hewan peliharaan. Di Indonesia, ular paling besar adalah Anaconda Hijau dengan panjang mencapai 9,7 m dan berat lebih dari 249 kg! Tetapi selain Anaconda Hijau, ada beberapa spesies ular terbesar lain di dunia lho!',
-        imageUrl: 'https://placehold.co/318x185', // Placeholder gambar
+        imageUrl: '/assets/gambarUlar.webp', // Placeholder gambar
       },
     ];
     setArticleList(defaultArticleList);

@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Row, Col } from 'react-bootstrap';
+import { Container, Row, Col, Card } from 'react-bootstrap';
 import './Homepage.css';
 import { Link } from "react-router-dom"; 
 
@@ -8,43 +8,36 @@ function Hompage() {
     <div className="home-page">
       <div className="banner-container">
         <img src="/assets/bannerPuffins.png" alt="Let's learn about puffins" className="banner-image" />
-        {/* <div className="banner-text">let's learn about puffins</div>  */}
       </div>
 
       <Container className="mt-5 text-center">
         <h2 className="mb-4">Zoonotion</h2>
         <p className="lead">
-          zoonotion adalah platform edukasi hewan yang menyajikan metode pembelajaran hewan yang menarik. ayooo teman teman mari kita bersama - sama mengenal berbagai macam satwa yang ada di alam yang luas ini 🙌
+          Zoonotion adalah platform edukasi hewan yang menyajikan metode pembelajaran hewan yang menarik. ayooo teman teman mari kita bersama - sama mengenal berbagai macam satwa yang ada di alam yang luas ini 🙌
         </p>
         <hr className="my-4 w-50 mx-auto" />
       </Container>
 
-      <Container className="mt-5">
-        <Row className="justify-content-center">
-          <Col md={3} className="mb-4">
-            <Link to="/education" className="d-block">
-              <img src="/assets/gambarEdukasi.png" alt="Education" className="img-fluid rounded-circle shadow" />
-              <h3 className="mt-2">Education</h3>
-            </Link>
-          </Col>
-          <Col md={3} className="mb-4">
-            <Link to="#" className="d-block">
-              <img src="/assets/gambarQuizz.png" alt="Quiz" className="img-fluid rounded-circle shadow" />
-              <h3 className="mt-2">Quizz</h3>
-            </Link>
-          </Col>
-          <Col md={3} className="mb-4">
-            <Link to="/community" className="d-block">
-              <img src="/assets/gambarKomunitas.png" alt="Komunitas" className="img-fluid rounded-circle shadow" />
-              <h3 className="mt-2">Komunitas</h3> 
-            </Link>
-          </Col>
-          <Col md={3} className="mb-4">
-            <Link to="/article" className="d-block">
-              <img src="/assets/gambarArtikel.png" alt="Berita" className="img-fluid rounded-circle shadow" />
-              <h3 className="mt-2">Artikel</h3>
-            </Link>
-          </Col>
+      <Container className="py-4">
+        <Row className="text-center justify-content-center g-4">
+          {[
+            { to: '/education', img: 'gambarEdukasi.png', label: 'Education' },
+            { to: '#', img: 'gambarQuizz.png', label: 'Quizz' },
+            { to: '/community', img: 'gambarKomunitas.png', label: 'Komunitas' },
+            { to: '/article', img: 'gambarArtikel.png', label: 'Artikel' },
+          ].map((item, index) => (
+            <Col xs={6} md={3} key={index}>
+              <Link to={item.to} className="text-decoration-none text-dark">
+                <img
+                  src={`/assets/${item.img}`}
+                  alt={item.label}
+                  className="mb-2"
+                  style={{ width: '200px', height: '200px', objectFit: 'contain' }}
+                />
+                <p className="fw-semibold">{item.label}</p>
+              </Link>
+            </Col>
+          ))}
         </Row>
       </Container>
 
