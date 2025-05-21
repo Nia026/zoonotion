@@ -4,8 +4,7 @@ import { Navbar, Nav, Container } from "react-bootstrap";
 
 function NavigationBar() {
   const location = useLocation();
-
-  // Definisi warna untuk active dan hover
+  
   const baseStyle = {
     color: '#1E1E1E',
     padding: '8px',

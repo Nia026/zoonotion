@@ -3,7 +3,7 @@ import { useParams } from 'react-router-dom';
 import { Container, Row, Col, Button } from 'react-bootstrap';
 import './Artikel.css'; 
 import { Link } from "react-router-dom";
-import { FiArrowLeft, FiArrowRight } from 'react-icons/fi';
+import { FiArrowLeft } from 'react-icons/fi';
 
 function DetailArtikel(){
   const { id } = useParams();

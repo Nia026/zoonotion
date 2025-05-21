@@ -45,23 +45,33 @@ function Artikel(){
         title: 'Kucing Siam: Mengenal si Kucing Pintar yang Menggemaskan!',
         description: 'Kucing siam atau siamese merupakan salah satu ras kucing hias yang umum dipelihara di seluruh dunia. Kucing yang memiliki perawakan layaknya kucing domestik ini dinamakan siam karena berasal dari Negara Siam yang sekarang lebih dikenal dengan nama Thailand.',
         imageUrl: '/assets/gambarKucing.webp',
-        author: 'Tim Unotopia',
-        publishDate: '2024',
+        author: 'Novi Veronika',
+        publishDate: '2025',
         bannerImage: '/assets/bannerKupu.png',
         fullDescription: `Kucing siam atau siamese merupakan salah satu ras kucing hias yang umum dipelihara di seluruh dunia. Kucing yang memiliki perawakan layaknya kucing domestik ini dinamakan siam karena berasal dari Negara Siam yang sekarang lebih dikenal dengan nama Thailand.
 
-        Kucing siam dikenal dengan ciri khasnya yang elegan, dengan tubuh ramping, kaki panjang, dan ekor yang tipis. Mereka memiliki mata biru yang cerah dan bulu yang berwarna terang di tubuh, dengan bagian ujung tubuh (seperti telinga, wajah, kaki, dan ekor) yang lebih gelap. Warna gelap ini disebabkan oleh gen yang sensitif terhadap suhu, yang menyebabkan bulu menjadi lebih gelap di bagian tubuh yang lebih dingin.
+          Meski termasuk dalam kategori ras kucing populer, ironisnya populasi kucing siam di alam tempat tinggal aslinya semakin berkurang. Meski begitu, sebagian orang yang peduli sudah mulai melakukan menjaga populasinya supaya ras kucing ini tidak punah.
 
-        Kucing siam sangat aktif, cerdas, dan penuh rasa ingin tahu. Mereka senang bermain, melompat, dan menjelajahi lingkungan. Kucing siam juga dikenal sebagai kucing yang sangat vokal dan komunikatif. Mereka sering mengeluarkan suara-suara khas seperti "meong" yang nyaring untuk menarik perhatian pemiliknya.
+          Secara umum kucing siam memiliki kepribadian yang hampir sama dengan kucing anggora. Meski begitu, terdapat beberapa jenis siamese yang tak direkomendasikan untuk dipelihara karena sikapnya terlalu rumit dan sulit beradaptasi sehingga lebih berisiko mengalami sakit yang berujung pada kematian.
 
-        Berikut beberapa fakta menarik tentang kucing siam:
-        1. Berasal dari Thailand: Kucing siam pertama kali ditemukan di Thailand (dulu Siam) pada abad ke-18. Mereka dulunya adalah kucing istana yang dipelihara oleh bangsawan Thailand.
-        2. Kucing Vokal: Kucing siam sangat vokal dan sering mengeluarkan suara-suara yang mirip dengan tangisan bayi. Mereka sering berbicara dengan pemiliknya dan menuntut perhatian.
-        3. Cerdas dan Lincah: Kucing siam sangat cerdas dan mudah dilatih. Mereka juga sangat lincah dan senang bermain.
-        4. Bulu Sensitif Suhu: Warna bulu kucing siam dapat berubah seiring dengan suhu tubuh mereka. Bulu di bagian tubuh yang lebih dingin akan menjadi lebih gelap.
-        5. Kesehatan: Kucing siam umumnya sehat, tetapi mereka rentan terhadap beberapa masalah kesehatan, seperti masalah mata dan masalah pernapasan.
+          Kendati demikian, jika Grameds memiliki keinginan untuk memelihara jenis kucing ini tidak ada salahnya untuk memahami sifat dan karakter alaminya terlebih dahulu. Kucing siam merupakan salah satu jenis kucing yang memiliki tingkat kecerdasan tinggi, lincah, aktif, dan gemar bermain.
 
-        Jika Anda tertarik untuk memelihara kucing siam, pastikan Anda siap untuk memberikan perhatian yang cukup dan merawat mereka dengan baik. Kucing siam adalah teman yang setia dan menggemaskan.
+          Siam adalah salah satu ras kucing yang mudah beradaptasi, sehingga tak mengherankan jika kucing ini akan sering mengajak bermain bersama. Kucing siam juga memiliki sifat keras kepala, jika keinginannya tak segera terpenuhi, ia akan marah, mengeluarkan suara yang keras, serta cukup sulit untuk dihentikan.
+
+          Oleh sebab itu, kucing ini tidak dapat Grameds tinggal sendirian di rumah dalam waktu yang lama karena ia selalu memerlukan perhatian yang lebih dari majikannya.
+
+          Jenis Kucing Siam
+          Berdasarkan karakteristiknya, kucing siam bisa dibedakan menjadi beberapa jenis, antara lain:
+          Traditional Siamese Cat
+          Apabila dibandingkan dengan jenis kucing siam lainnya, Traditional Siamese Cat adalah kucing yang memiliki ukuran paling besar. Tulang wajah serta pipinya lebar, tetapi pada bagian pipinya tampak cekung.
+
+          Warna tubuh jenis ini tidak memiliki banyak berbeda dengan jenis siam lainnya, yakni perpaduan antara warna putih pucat dengan cokelat gelap. Walaupun memiliki pipi besar, kucing ini juga memiliki bentuk hidung yang runcing dan tinggi.
+          Classic Siamese Cat
+          Sekilas, Classic Siamese Cat memiliki penampilan yang mirip dengan kucing siamese tradisional, tetapi perawakannya lebih kecil. Bentuk wajahnya berbentuk seperti segitiga dengan ukuran pipi yang kecil. Sayangnya, kucing ini memiliki usia hidup yang cenderung rendah, yakni maksimal hanya 5 tahun. Selain itu, classic siamese cat dapat dikatakan sebagai jenis yang cukup sulit untuk dijadikan sebagai hewan peliharaan sehingga kurang populer di kalangan masyarakat.
+          Modern Siamese Cat
+          Modern Siamese Cat atau juga populer dengan nama Lynx adalah ras siamese yang memiliki ukuran tubuh paling ramping. Julukan Lynx diperoleh dari sebuah rasi bintang yang mempunyai simbol menyerupai kucing. Kucing siam modern memiliki berat sekitar 5 kg hingga 7 kg dengan warna bulu didominasi putih, tetapi bulu wajahnya berwarna cokelat muda.
+          Applehead Siamese Cat
+          Kucing ini disebut dengan Applehead karena memiliki bentuk kepala yang serupa dengan buah apel. Bila diperhatikan dengan lebih detail, Applehead Siamese Cat memiliki banyak persamaan dengan kucing siam tradisional, tetapi bentuk kepalanya berbeda. Perbedaan lainnya juga terdapat pada bentuk tubuhnya yang cenderung lebih berotot.
         `,
       },
       {
@@ -69,26 +79,43 @@ function Artikel(){
         title: 'Kenali 100 Nama Hewan di Indonesia yang Menakjubkan!',
         description: 'Tahukah kamu? Indonesia dikenal sebagai salah satu negara yang kaya akan sumber daya hayati terbesar di dunia. Mulai dari mamalia megah seperti harimau Sumatra sampai serangga kumbang tanduk, masing-masing daerah di negara ini punya kekayaan fauna yang luar biasa.',
         imageUrl: '/assets/gambarSinga.png',
-        author: 'Tim Unotopia',
-        publishDate: '2024',
+        author: 'Laila',
+        publishDate: '2025',
         bannerImage: '/assets/bannerKupu.png',
         fullDescription: `Tahukah kamu? Indonesia dikenal sebagai salah satu negara yang kaya akan sumber daya hayati terbesar di dunia. Mulai dari mamalia megah seperti harimau Sumatra sampai serangga kumbang tanduk, masing-masing daerah di negara ini punya kekayaan fauna yang luar biasa.
 
-        Indonesia adalah rumah bagi lebih dari 1.500 spesies burung, 500 spesies mamalia, 1.000 spesies reptil, dan ribuan spesies ikan dan serangga. Keanekaragaman hayati ini menjadikannya salah satu negara dengan keanekaragaman hayati terkaya di dunia.
+        Nah, untuk mengenal mereka lebih dekat, berikut Gramin sertakan 100 nama hewan di Indonesia beserta nama ilmiahnya. Bahkan, kamu juga akan mempelajari betapa pentingnya pelestarian fauna untuk menjaga keseimbangan ekosistem tropis Indonesia!
 
-        Beberapa nama hewan yang unik dan menakjubkan di Indonesia:
-        1. Harimau Sumatra: Subspesies harimau yang hanya ditemukan di pulau Sumatra. Harimau Sumatra adalah predator puncak di hutan hujan Sumatra.
-        2. Orangutan Kalimantan: Primata besar yang ditemukan di hutan hujan Kalimantan. Orangutan Kalimantan adalah spesies yang terancam punah.
-        3. Komodo: Kadal terbesar di dunia yang hanya ditemukan di pulau Komodo, Rinca, Flores, Gili Motang, dan Gili Dasami. Komodo adalah predator yang kuat dan berbahaya.
-        4. Badak Jawa: Spesies badak yang sangat langka dan hanya ditemukan di Taman Nasional Ujung Kulon, Jawa. Badak Jawa adalah salah satu mamalia paling terancam punah di dunia.
-        5. Burung Cendrawasih: Burung yang dikenal dengan bulu-bulu yang indah dan warna-warni. Burung Cendrawasih banyak ditemukan di Papua.
-        6. Bekantan: Monyet hidung panjang yang hanya ditemukan di hutan bakau Kalimantan. Bekantan adalah spesies yang terancam punah.
-        7. Jalak Bali: Burung endemik Bali yang dikenal dengan bulu putih bersih dan jambul hitamnya. Jalak Bali adalah spesies yang terancam punah.
-        8. Penyu Belimbing: Penyu laut terbesar di dunia yang ditemukan di perairan tropis. Penyu belimbing adalah spesies yang terancam punah.
+        Aturan Penamaan Hewan Secara Ilmiah
+        Setiap nama ilmiah hewan ditetapkan berdasarkan aturan International Code of Zoological Nomenclature (ICZN), sebuah sistem internasional yang menjaga penamaan hewan di seluruh dunia tetap konsisten.
+        Dalam nama ilmiah hewan, kamu akan menemukan dua kata dalam bahasa Latin atau yang dilatinkan, dan dikenal sebagai binomial nomenclature.
 
-        Selain itu, masih banyak lagi hewan-hewan lain yang menakjubkan di Indonesia, seperti anoa, babi rusa, tarsius, dan berbagai jenis ikan dan serangga. Keanekaragaman hayati ini perlu kita jaga dan lestarikan agar tidak punah.
+        Pentingnya Nama Ilmiah Hewan
+        Kira-kira, kenapa setiap hewan ini punya nama ilmiah, ya? Berikut adalah beberapa alasan yang mendasari jawaban atas pertanyaan tersebut!
 
-        Mari kita bersama-sama menjaga kelestarian hewan-hewan di Indonesia dengan cara mendukung upaya konservasi, tidak membeli produk-produk yang terbuat dari hewan langka, dan melaporkan tindakan-tindakan ilegal yang mengancam keberadaan hewan.
+        Menghindari Kebingungan
+        Nama ilmiah berperan sebagai nama universal yang efektif untuk mengidentifikasi hewan, terlepas dari bahasa lokal atau sebutan daerahnya. Misalnya, buaya dalam bahasa Indonesia akan dikenal sebagai Crocodylus porosus di tempat lainnya.
+
+        Memudahkan Penelitian dan Kolaborasi
+        Dengan adanya nama ilmiah, para peneliti dari berbagai negara bisa merujuk pada spesies yang sama tanpa ambiguitas. Ini sangat penting untuk studi ekologi, konservasi, dan biologi evolusi.
+        Mengungkap Hubungan Evolusi
+        Nama ilmiah mencerminkan hubungan genetis dan evolusi antarspesies. Misalnya saja, hewan yang tergabung genus Panthera antara lain adalah harimau, singa, macan tutul, dan jaguar. Dalam kata lain, mereka berasal dari satu jenis nenek moyang yang sama!
+        Mendukung Upaya Konservasi
+        Dengan melakukan identifikasi yang jelas, lembaga yang berwajib dapat fokus melindungi spesies yang terancam punah, misalnya saja seperti Rhinoceros sondaicus (Badak Jawa).
+
+        Upaya Konservasi Hewan di Indonesia
+        Indonesia adalah rumah bagi berbagai spesies hewan yang unik. Sayangnya, beberapa dari mereka terancam punah sehingga kita perlu membudidayakan upaya konservasi. Inilah beberapa aspek utama dari konservasi hewan di Indonesia:
+
+        Penyebab Ancaman terhadap Hewan
+        Banyak spesies hewan di Indonesia yang terancam karena sesuatu, seperti deforestasi, perburuan ilegal, sampai perubahan iklim. Hal tersebut tentu sangat mengganggu ekosistem dan siklus hidup mereka.
+        Spesies Terancam Punah
+        Beberapa hewan yang paling terancam punah di Indonesia antara lain Orangutan Sumatra dan Kalimantan, Harimau Sumatra, dan Badak Jawa. Ketiganya terancam antara lain karena ulah perburuan liar, hilangnya habitat, populasinya yang semakin terbatas.
+        Upaya Konservasi
+        Untuk melindungi keanekaragaman hayati ini, pemerintah setempat sudah mengupayakan berbagai jenis konservasi. Mulai dari mendirikan Taman Nasional dan Cagar Alam, program breeding captive, dan mengedukasi serta mengajak masyarakat untuk terlibat dalam konservasi tersebut.
+        Kerja Sama Internasional
+        Indonesia bekerja sama dengan berbagai organisasi internasional untuk melindungi spesies yang terancam punah. Ini termasuk World Wildlife Fund (WWF) dan International Union for Conservation of Nature (IUCN).
+        Tantangan dalam Konservasi
+        Meskipun berbagai upaya telah dilakukan, masih ada banyak tantangan yang dihadapi dalam konservasi hewan di Indonesia, seperti dana yang masih sangat terbatas dan penegakan hukum.
         `,
       },
       {
@@ -96,24 +123,29 @@ function Artikel(){
         title: 'Inilah 8 Spesies Ular Terbesar di Dunia, Salah Satunya Ada Black Mamba',
         description: 'Tak jarang berita tentang penemuan ular besar di sekitar kawasan rumah warga beredar, penemuan ular besar ini tentunya menghebohkan karena masyarakat khawatir bahwa ular tersebut dapat membahayakan manusia maupun hewan peliharaan. Di Indonesia, ular paling besar adalah Anaconda Hijau dengan panjang mencapai 9,7 m dan berat lebih dari 249 kg! Tetapi selain Anaconda Hijau, ada beberapa spesies ular terbesar lain di dunia lho!',
         imageUrl: '/assets/gambarUlar.webp',
-        author: 'Tim Unotopia',
-        publishDate: '2024',
+        author: 'Ratih',
+        publishDate: '2025',
         bannerImage: '/assets/bannerKupu.png',
-        fullDescription: `Tak jarang berita tentang penemuan ular besar di sekitar kawasan rumah warga beredar, penemuan ular besar ini tentunya menghebohkan karena masyarakat khawatir bahwa ular tersebut dapat membahayakan manusia maupun hewan peliharaan. Di Indonesia, ular paling besar adalah Anaconda Hijau dengan panjang mencapai 9,7 m dan berat lebih dari 249 kg! Tetapi selain Anaconda Hijau, ada beberapa spesies ular terbesar lain di dunia lho!
+        fullDescription: `Ular terbesar di dunia – Tak jarang berita tentang penemuan ular besar di sekitar kawasan rumah warga beredar, penemuan ular besar ini tentunya menghebohkan karena masyarakat khawatir bahwa ular tersebut dapat membahayakan manusia maupun hewan peliharaan. Di Indonesia, ular paling besar adalah Anaconda Hijau dengan panjang mencapai 9,7 m dan berat lebih dari 249 kg! Tetapi selain Anaconda Hijau, ada beberapa spesies ular terbesar lain di dunia lho!
 
-        Ular adalah reptil yang menakutkan bagi sebagian orang, tetapi mereka juga merupakan bagian penting dari ekosistem. Ular terbesar di dunia memiliki ukuran yang mengesankan dan dapat menjadi predator yang sangat kuat.
+        Salah satu jenis ular terbesar di dunia adalah Black Mamba dengan berat mencapai 1,3 kg. Selain Black Mamba jenis ular lain dengan ukuran besar adalah Anaconda dan King  Cobra. Penasaran dengan jenis-jenis ular terbesar di dunia? Simak daftar spesies ular terbesar di dunia satu ini. Simak hingga akhir artikel ya!
 
-        Berikut adalah 8 spesies ular terbesar di dunia:
-        1. Anaconda Hijau (Eunectes murinus): Ular terbesar di dunia dalam hal massa dan diameter. Anaconda hijau dapat mencapai panjang hingga 9,7 meter dan berat lebih dari 249 kg. Mereka hidup di perairan Amerika Selatan.
-        2. Sanca Batik (Malayopython reticulatus): Ular terpanjang di dunia, dengan panjang rata-rata 6,25 meter dan dapat mencapai 10 meter. Sanca batik ditemukan di Asia Tenggara.
-        3. Python Burma (Python bivittatus): Ular besar yang berasal dari Asia Tenggara. Python burma dapat mencapai panjang hingga 5,74 meter.
-        4. Boa Konstrikto (Boa constrictor): Ular non-berbisa yang ditemukan di Amerika Utara, Tengah, dan Selatan. Boa konstrikto dapat mencapai panjang hingga 3 meter.
-        5. Cobra Raja (Ophiophagus hannah): Ular berbisa terpanjang di dunia, dengan panjang rata-rata 3 hingga 4 meter dan dapat mencapai 5,7 meter. Cobra raja ditemukan di Asia Selatan dan Tenggara.
-        6. Black Mamba (Dendroaspis polylepis): Ular berbisa tercepat di dunia, dengan kecepatan hingga 20 km/jam. Black mamba ditemukan di Afrika.
-        7. Anakonda Kuning (Eunectes notaeus): Ular yang lebih kecil dari anaconda hijau, tetapi masih sangat besar. Anakonda kuning ditemukan di Amerika Selatan.
-        8. Ular Gajah (Acrochordus arafurae): Ular air yang ditemukan di Australia dan Papua Nugini. Ular gajah dapat mencapai panjang hingga 2,5 meter.
+        Dikutip dari Kompas.com, ada sekitar 3000 spesies ular yang saat ini tercatat berada di bumi mulai dari bagian Amerika Selatan, African bahkan hingga di sekitar daerah Asia Tenggara. Dari 3000 spesies ular tersebut, sekitar 600 spesies ular termasuk ular dengan bisa dan 200 spesies ular lainnya diketahui mampu melukai serta dapat membunuh manusia secara signifikan.
 
-        Ular-ular ini memiliki peran penting dalam ekosistem sebagai predator dan pengontrol populasi hewan pengerat. Meskipun menakutkan, ular-ular ini juga perlu dilindungi karena keberadaan mereka penting bagi keseimbangan alam.
+        Tak hanya berbisa, sebagian dari spesies ular yang masih berada di alam liar saat ini diketahui mampu tumbuh dengan ukuran yang sangat besar dan bahkan dapat dibilang sebagai raksasa. Dikarenakan berat dan panjang tubuh ular yang sangat besar ini, beberapa spesies ular berbadan besar memiliki kemampuan untuk dapat melumpuhkan serta menemukan mangsa dengan cara melilitnya sebelum akhirnya dilahap.
+
+        Mulga
+        Jenis ular terbesar di dunia yang pertama adalah mulga atau Pseudechis australis dalam bahasa Inggris, ular satu ini dikenal pula dengan nama King brown. Ahli zoologi Inggris bernama John Edward Gray adalah tokoh yang memperkenalkan mulga untuk pertama kalinya di tahun 1842. Ia melakukan deskripsi berdasarkan spesimen yang dikumpulkannya di Port Essington, Australia Utara.
+
+        Mulga termasuk spesies ular Elapidae yang cukup mematikan dan tersebar di sekitar Australia, tetapi ular mulga juga dapat ditemui di habitat yang lainnya. Warna dari tubuh mulga diketahui berwarna coklat dan termasuk ular berbisa.
+
+        Ular coklat satu ini merupakan salah satu spesies ular berbisa terbesar dan terpanjang di Australia. Ular ini seringkali memiliki ukuran tubuh yang melebihi ular taipan pesisir (O. scutellatus). Panjang tubuh mulga bisa mencapai 2 hingga 2,5 meter dengan berat antara 3 hingga 6 kg. Ular mulga jantan biasanya memiliki ukuran yang lebih besar dibandingkan dengan ular betina.
+
+        Menurut Wikipedia.com, spesimen mulga terpanjang yang pernah ditemukan adalah dengan ukuran panjang tubuh mencapai 3,3 meter. Mulga adalah ular yang memiliki tubuh kuat dengan kepala sedikit lebih lebar daripada tubuhnya. Ular ini memiliki pipi yang menonjol, mata kecil dengan iris berwarna merah kecoklatan dan lidah berwarna gelap.
+
+        Sisik-sisik pada bagian atas tubuh, sisi badan, dan ekor mulga memiliki warna dasar kuning pucat atau kehijauan. Corak sisik ini dapat bervariasi, mulai dari warna sawo matang atau tembaga, hingga corak coklat dengan warna yang lebih pucat hingga kehitaman di bagian belakang tubuhnya.
+
+        Pola pewarnaan ini membentuk motif berjaring-jaring pada tubuhnya. Kadang-kadang, ekor mulga memiliki warna yang lebih gelap, sementara bagian atas tubuhnya memiliki warna yang sama dengan sisi badan. Bagian bawah dari tubuh ular mulga memiliki warna krim, putih, atau bahkan salmon, kadang-kadang ada pula mulga yang memiliki corak berwarna sedikit oranye.
         `,
       },
     ];
