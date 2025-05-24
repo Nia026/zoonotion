@@ -28,7 +28,7 @@ function NavigationBar() {
     { to: "/", label: "HOME" },
     { to: "/education", label: "EDUCATION" },
     { to: "/community", label: "COMMUNITY" },
-    { to: "/ticket", label: "TICKET" },
+    { to: "/ticket", label: "ZOO" },
     { to: "/article", label: "ARTICLE" },
     { to: "/profile", label: "PROFILE" },
   ];
